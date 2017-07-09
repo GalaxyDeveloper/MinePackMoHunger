@@ -1,0 +1,4 @@
+name: MPIMoHunger
+main: com.gamestudio.online.MoHungerMain
+version: 1.0
+commands:
